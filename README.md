@@ -1,3 +1,4 @@
+Here is the Dart learn challenge for the Exercism .
 # Word Count
 
 Welcome to Word Count on Exercism's Dart Track.
